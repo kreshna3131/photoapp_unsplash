@@ -1,0 +1,44 @@
+{
+  "name": "unsplash_react",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "bootstrap": "4.6.0",
+    "bootstrap-icons": "1.4.0",
+    "react": "17.0.1",
+    "react-bootstrap": "1.5.0",
+    "react-dom": "17.0.1",
+    "react-infinite-scroller": "1.2.4",
+    "react-scripts": "^4.0.0",
+    "unsplash-js": "7.0.4"
+  },
+  "devDependencies": {
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
